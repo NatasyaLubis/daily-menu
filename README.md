@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todo-list
 `todo-list` is a free, self-hosted, open source app, written using laravel 11.x, that may help You organise your tasks.
 
@@ -26,3 +27,7 @@ php artisan migrate
 ```bash
 php artisan serve
 ```
+=======
+# daily-menu
+Tugas_Unit Testing and Feature Testing_Natasya Lubis
+>>>>>>> 62ce601688c5812e5bacfba057ddac8eb84894cc
