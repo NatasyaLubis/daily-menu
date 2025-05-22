@@ -1,6 +1,6 @@
 # daily-menu
 Tugas_Unit Testing and Feature Testing_Natasya Lubis
-
+Fitur Cari Daily-Menu ini dirancang khusus untuk membantu anak kost dalam menentukan pilihan menu masakan sehari-hari secara praktis dan hemat. Sistem bekerja dengan cara menerima input bahan-bahan yang tersedia di dapur anak kost—seperti telur, nasi, mie, sosis, dan sawi—serta batas maksimal anggaran dalam rupiah. Berdasarkan kombinasi bahan yang ada dan budget yang dimasukkan, sistem akan menampilkan rekomendasi menu-menu yang sesuai dengan bahan tersebut dan tetap dalam batas anggaran yang diinginkan.
 ### Halaman Home
 ![Home](public/screenshots/hasil1.png)
 
