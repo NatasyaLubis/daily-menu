@@ -28,6 +28,3 @@ Route::post('/loan', [LoanCalculatorController::class, 'calculate']);
 // Daily Menu
 Route::get('/daily-menu', [DailyMenuController::class, 'create']);
 Route::post('/daily-menu', [DailyMenuController::class, 'store']);
-
-
-

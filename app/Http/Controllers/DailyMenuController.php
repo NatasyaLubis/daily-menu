@@ -28,8 +28,7 @@ class DailyMenuController extends Controller
         ]);
     }
 
-
-    private function generateMenu(array $ingredients, int $budget)
+    public function generateMenu(array $ingredients, int $budget)
     {
         $menuList = [
             ['name' => 'Nasi Goreng Telur', 'cost' => 8000, 'ingredients' => ['telur', 'nasi']],

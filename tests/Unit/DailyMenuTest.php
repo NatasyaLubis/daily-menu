@@ -16,7 +16,7 @@ class DailyMenuTest extends TestCase
 
         $menus = $controller->generateMenu($ingredients, $budget);
 
-        $this->assertNotEmpty($menus);
+        $this->assertNotEmpty($menus); 
         $this->assertEquals('Mie Rebus Sosis', $menus[0]['name']);
     }
 }
