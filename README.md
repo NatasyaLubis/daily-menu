@@ -1,6 +1,14 @@
 <<<<<<< HEAD
 # todo-list
 `todo-list` is a free, self-hosted, open source app, written using laravel 11.x, that may help You organise your tasks.
+# daily-menu
+Tugas_Unit Testing and Feature Testing_Natasya Lubis
+
+### Halaman Home
+![Home](public/screenshots/hasil1.png)
+
+### Halaman Hasil
+![Feature Test](public/screenshots/hasil2.png)
 
 # Installation using MySQL
 1. Clone the git repository
@@ -28,12 +36,3 @@ php artisan migrate
 php artisan serve
 ```
 =======
-# daily-menu
-Tugas_Unit Testing and Feature Testing_Natasya Lubis
-
-### Halaman Home
-![Home](public/screenshots/hasil1.png)
-
-### Halaman Hasil
-![Feature Test](public/screenshots/hasil2.png)
-
