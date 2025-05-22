@@ -31,3 +31,11 @@ php artisan serve
 # daily-menu
 Tugas_Unit Testing and Feature Testing_Natasya Lubis
 >>>>>>> 62ce601688c5812e5bacfba057ddac8eb84894cc
+## 📸 Screenshots
+
+### Halaman Home
+![Home](public/screenshots/hasil1.png)
+
+### Halaman Feature Test
+![Feature Test](public/screenshots/hasil2.png)
+
